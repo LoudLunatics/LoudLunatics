@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Nauval!<br><br>🌱 I’m learning web development step by step, starting from the fundamentals and moving to modern tools.<br><br>🧩 My learning path:<br>- HTML, CSS, JavaScript<br>- Ripple<br>- React<br>- Supabase<br>- SQL<br><br>💻 I enjoy understanding how things work, from building UI with CSS to managing data with databases.<br><br>📚 Current focus:<br>- Strengthening frontend fundamentals<br>- Building apps with Svelte & React<br>- Backend and authentication using Supabase<br>- Learning SQL for data management<br><br>🎯 Goal:<br>Become a well-rounded web developer with strong fundamentals and real project experience.<br><br>🚀 Learn → Build → Improve<br>
+👋 Hi, I'm Nauval!<br><br>🌱 I’m learning web development step by step, starting from the fundamentals and moving to modern tools.<br><br>🧩 My learning path:<br>- HTML, CSS, JavaScript<br>- Ripple<br>- React<br>- Supabase<br>- SQL<br><br>💻 I enjoy understanding how things work, from building UI with CSS to managing data with databases.<br><br>📚 Current focus:<br>- Strengthening frontend fundamentals<br>- Building apps with Ripple & React<br>- Backend and authentication using Supabase<br>- Learning SQL for data management<br><br>🎯 Goal:<br>Become a well-rounded web developer with strong fundamentals and real project experience.<br><br>🚀 Learn → Build → Improve<br>
 
 
 ## 🌐 Socials:
